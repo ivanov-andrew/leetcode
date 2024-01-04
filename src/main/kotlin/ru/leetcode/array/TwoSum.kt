@@ -1,5 +1,6 @@
 package ru.leetcode.array
 
+// https://leetcode.com/problems/two-sum/
 fun main() {
     println(TwoSum().twoSum(intArrayOf(2, 7, 11, 15), 9).joinToString(","))
 }
